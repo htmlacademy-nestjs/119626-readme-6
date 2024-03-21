@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2024-03-21T19:41:11.607Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cH-ZxrVU_mIUc4cPh1XL" version="24.0.7" type="device">
+  <diagram name="Page-1" id="xs0_9I8SIGPFALCBiHQY">
+    <mxGraphModel dx="2049" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-1" value="User Data Service" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-2" value="Registration" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-4" value="User details" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-5" value="Change password" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-6" value="Publication Service" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-7" value="Create" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-8" value="Read" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-9" value="Update" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-10" value="Delete" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-13" value="Load files" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-18" value="Add comment" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-21" value="Add like" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-22" value="Get total likes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-24" value="Get list of publications" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-25" value="Search publication" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-27" value="video" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="650" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-28" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="670" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-29" value="quote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="690" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-30" value="photo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="710" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-31" value="link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="730" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BQYCcWX2m1mCqOnLiJo2-27" target="BQYCcWX2m1mCqOnLiJo2-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="740" as="sourcePoint" />
+            <mxPoint x="80" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-34" value="Mail Service" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-35" value="Send email" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-36" value="User&amp;nbsp;Service" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-37" value="Feed" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-38" value="Subscribe" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-39" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="90" y="10" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BQYCcWX2m1mCqOnLiJo2-40" value="Authorization" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
