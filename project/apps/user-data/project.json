@@ -1,0 +1,24 @@
+{
+  "name": "user-data",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/user-data/src",
+  "projectType": "application",
+  "targets": {
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "user-data:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "user-data:build:development"
+        },
+        "production": {
+          "buildTarget": "user-data:build:production"
+        }
+      }
+    }
+  },
+  "tags": []
+}
